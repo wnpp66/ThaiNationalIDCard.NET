@@ -6,5 +6,10 @@
         {
             return new byte[] { 0x00, 0xc0, 0x00, 0x01 };
         }
+
+        public override byte[] Select(byte[] command)
+        {
+            throw new System.NotImplementedException();
+        }
     }
 }

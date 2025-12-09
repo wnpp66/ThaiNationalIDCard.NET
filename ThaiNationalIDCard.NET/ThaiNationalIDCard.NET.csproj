@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <Authors>Pichid Detson</Authors>
+    <Authors>Phar Ake TheChaDhumMo</Authors>
     <PackageId>ThaiNationalIDCard.NET</PackageId>
     <Product>ThaiNationalIDCard.NET</Product>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>

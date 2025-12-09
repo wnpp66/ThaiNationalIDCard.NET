@@ -13,5 +13,6 @@ namespace ThaiNationalIDCard.NET.Models
         public DateTime IssueDate { get; set; }
         public DateTime ExpireDate { get; set; }
         public string Issuer { get; set; }
+        public string LaserID { get; set; }
     }
 }
